@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lordzerato/SimpleChatBot.git"
+    "url": "git+https://github.com/lordzerato/Server-SimpleChatBot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lordzerato/SimpleChatBot/issues"
+    "url": "https://github.com/lordzerato/Server-SimpleChatBot/issues"
   },
-  "homepage": "https://github.com/lordzerato/SimpleChatBot#readme",
+  "homepage": "https://github.com/lordzerato/Server-SimpleChatBot#readme",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "cors": "^2.8.5",
